@@ -16,6 +16,8 @@ Each text dataset contains reconciled places against the Pleiades gazetteer or o
 
 ## Other datasets
 
+* AWMC Geodata is a clone of the official AWMC repository. It contains GIS data mapped by the Ancient World Mapping Center, including infrastructures and natural features. 
+
 * [Pleiades Data](https://github.com/ChiaraPalladino/ancient-geodata-workshop/blob/main/pleiades2025.csv): an export of the full Pleiades gazetteer in CSV format, including location and place type data. Pleiades data are released periodically, for the most recent version of this dataset see https://pleiades.stoa.org/downloads. 
 
 * [Roman Amphitheaters](https://github.com/ChiaraPalladino/ancient-geodata-workshop/blob/main/roman-amphitheaters.csv): Dataset created by Sebastian Heath for the project Roman Amphitheaters. Read the full explanation of this dataset here: https://github.com/sfsheath/roman-amphitheaters. 
